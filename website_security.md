@@ -28,7 +28,7 @@
 * To protect your application from this you can use X-Frame-Options in your headers
 The X-Frame-Options header tells browsers to prevent your webpage from being put in an iframe. When browsers load iframes, they’ll check the value of the X-Frame-Options header and abort loading if it’s not allowed.
 
-The header has three options:
+- The header has three options:
 
 * X-Frame-Options: DENY will prevent anyone from putting this page in an iframe.
 
