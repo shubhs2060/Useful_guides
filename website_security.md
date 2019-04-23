@@ -1,5 +1,5 @@
 ## Add Security for your Website
-- There are many ways that you can use to protect your websites from. Here I am listing few of them
+- There are many ways that you can use to protect your websites from attackers. Here I am listing few of them
 
 - **noSniff MimeType**
 
